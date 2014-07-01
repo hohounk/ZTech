@@ -1,0 +1,10 @@
+{
+  "name": "Ztech",
+  "version": "0.0.1",
+  "title": "Z Harder research",
+  "author": "Hoho",
+  "contact": "",
+  "homepage": "",
+  "description": "This mod modifies all research recipes to use more lower-end science packs",
+  "dependencies": ["base >= 0.10.0", "? DyTech-Core >= 0.2.0"]
+}
