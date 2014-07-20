@@ -10,23 +10,23 @@ function modIngredients(ingredients)
 	elseif (pack == "science-pack-2")
 	then
 	    if ((total-1) < 1) then
-		ingredients[i][2] = 1000
+			--ingredients[i][2] = 1000
 	    else
-		ingredients[i][2] = count*multipliers[total-1]
+			ingredients[i][2] = count*multipliers[total-1]
 	    end
 	elseif (pack == "science-pack-3")
 	then
 	    if ((total-2) < 1) then
-		ingredients[i][2] = 1000
+			--ingredients[i][2] = 1000
 	    else
-		ingredients[i][2] = count*multipliers[total-2]
+			ingredients[i][2] = count*multipliers[total-2]
 	    end
 	elseif (pack == "alien-science-pack")
 	then
 	    if ((total-3) < 1) then
-		ingredients[i][2] = 1000
+			--ingredients[i][2] = 1000
 	    else
-		ingredients[i][2] = count*multipliers[total-3]
+			ingredients[i][2] = count*multipliers[total-3]
 	    end
 	end
     end
