@@ -6,5 +6,5 @@
   "contact": "",
   "homepage": "",
   "description": "This mod modifies all research recipes to use more lower-end science packs",
-  "dependencies": ["base >= 0.11.0", "? CORE-DyTech-Core >= 1.0.0", "? MAIN-DyTech-Power >= 1.0.0", "? taknwerkz >= 0.1.2"]
+  "dependencies": ["base >= 0.11.0", "? CORE-DyTech-Core >= 1.0.0", "? MAIN-DyTech-Power >= 1.0.0", "? taknwerkz >= 0.1.2", "? bobpower >= 0.1.0"]
 }
